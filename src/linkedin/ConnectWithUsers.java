@@ -31,7 +31,7 @@ public class ConnectWithUsers {
 		GetSomeSleep(3000);
 
 	}
-	
+	//Clicking on "My network page" and connect with peoples
 	public static void MyNetworkPage() throws InterruptedException {
 		int i=0;
 		for(i=0;i<2; i++) ////page down 3 times by clicking on "Show more results"
